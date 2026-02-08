@@ -116,7 +116,7 @@ The add-on is available in:
 
 ## 📜 License
 
-This project is licensed under the **GNU General Public License v3 (GPL-3.0)**.
+This project is licensed under the **GNU General Public License v3 (GPL-2.0)**.
 
 
 
