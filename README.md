@@ -21,6 +21,8 @@ It is designed for **lookdev, lighting, and rendering workflows** where passes c
 
 ---
 
+(images/compositor.png)
+
 ### 🔹 Smart, Non-Destructive Updates
 The **Update Compositing** button keeps the compositor graph in sync with the current Render Layer configuration.
 
@@ -60,6 +62,8 @@ Each output is automatically named and placed into versioned folders.
 
 ## 📂 Versioned Output Structure
 
+(images/settings.png)
+
 The add-on extracts the render version from the `.blend` filename  
 (e.g. `_v003`) and generates a consistent output structure:
 
@@ -75,6 +79,8 @@ This keeps renders organized across iterations and prevents accidental overwrite
 ---
 
 ## 🖥 User Interface
+
+(images/panel.png)
 
 The add-on is available in:
 
